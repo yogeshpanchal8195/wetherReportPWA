@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.demopwaapp",
+               "sha256_cert_fingerprints": ["72:C6:AB:0E:FB:87:06:2A:5E:5B:EE:69:D7:BB:C1:32:50:66:73:21:74:69:E2:35:B0:C5:84:7C:9C:06:37:83"] }
+}]
